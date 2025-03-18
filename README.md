@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Banner](pictures/Bodlein_Library_MS._Arab.d.84_roll332_frame1.jpg)
+  ![Banner](pictures/Bodlein_Library_MS._Arab.d.84_roll332_frame1-2.jpg)
   
   <h2>Computational Approaches to Philosophical Source Analysis</h2>
   
@@ -56,7 +56,10 @@ Source analysis in classical and medieval philosophy examines how philosophical 
 - The philosophical context in which a given text should be interpreted
 - How concepts and arguments were borrowed, adapted, or critiqued
 
-
+<div align="center">
+  <img src="pictures/Bekker_1831_page184.jpg" alt="Page from Bekker's edition of Aristotle" width="400"/>
+  <p><em>Page from Immanuel Bekker's 1831 edition of Aristotle's works</em></p>
+</div>
 
 ---
 
@@ -465,7 +468,7 @@ Analyze these texts and respond in this exact JSON format:
       "analysis": {
         "verbal_parallels": [
           "Both texts discuss mimesis/imitation (محاكاة in Arabic, μίμησις in Greek)",
-          "Shared terminology around tragedy (τραγῳδία/طراغوذيا) and comedy (κωμῳδία/قوموذيا)",
+          "Shared terminology around tragedy (τραγῳδία/طراغوذيا) and comedy (κωμῳدία/قوموذيا)",
           "Discussion of poetic meters and rhythm (وزن/μέτρον)",
           "Treatment of diction and language (لفظ/λέξις)"
         ],
@@ -485,7 +488,7 @@ Analyze these texts and respond in this exact JSON format:
         "technical_vocabulary": [
           "mimesis/محاكاة/μίμησις",
           "tragedy/طراغوذيا/τραγῳδία",
-          "comedy/قوموذيا/κωμῳδία",
+          "comedy/قوموذيا/κωμῳدία",
           "diction/لفظ/λέξις",
           "plot/مثل/μῦθος"
         ],
@@ -632,7 +635,7 @@ Raw output:
         ],
         "mediation_evidence": [
           "Both texts consistently employ a standard set of technical vocabulary which is characteristic of classical poetics (e.g., mimesis, tragedy, comedy, diction, plot), implying a reliance on shared authoritative sources.",
-          "There is evidence of citation or allusion to established frameworks typical of classical works (as exemplified by the consistency with Aristotelian terms), even if Aristotle’s name is not explicitly mentioned in all instances.",
+          "There is evidence of citation or allusion to established frameworks typical of classical works (as exemplified by the consistency with Aristotelian terms), even if Aristotle's name is not explicitly mentioned in all instances.",
           "The texts refer to paradigmatic examples and definitions that indicate the use of a common intermediary tradition, such as translations or commentaries that standardize the terminology across cultures."
         ],
         "adaptation_evidence": [
@@ -674,7 +677,7 @@ Raw output:
         "key_arguments": [
           "The argument establishing mimesis as a universal principle in poetic theory is consistently articulated in both texts, demonstrating a shared belief in the function of imitation as a creative act.",
           "Both texts articulate detailed classifications of poetic genres, particularly in their treatment of tragedy and comedy, using parallel technical vocabulary that underscores their common analytical heritage.",
-          "The Greek text’s structured approach to defining poetic elements (using syllogistic and deductive reasoning) is mirrored and extended by the Arabic text, where the core principles are maintained but are innovatively adapted to include additional literary and moral dimensions."
+          "The Greek text's structured approach to defining poetic elements (using syllogistic and deductive reasoning) is mirrored and extended by the Arabic text, where the core principles are maintained but are innovatively adapted to include additional literary and moral dimensions."
         ]
       },
       "linguistic_analysis": {
@@ -695,7 +698,7 @@ Raw output:
         "organizational_patterns": [
           "The texts exhibit a clear, list-based organizational structure. In Text 2, each technical term is followed by its corresponding translations separated by slashes (e.g., 'diction/لفظ/λέξις'), indicating an intentional internal organization aimed at parallelism across languages.",
           "This structure not only serves a reference function but also emphasizes cross-linguistic consistency in how technical terms are used, suggesting an underlying intertextual dialogue.",
-          "While Text 1’s organization is less explicit in what is provided, the shared use of technical vocabulary implies that similar internal organization mechanisms (such as sections or lists of definitional paragraphs) might be in place."
+          "While Text 1's organization is less explicit in what is provided, the shared use of technical vocabulary implies that similar internal organization mechanisms (such as sections or lists of definitional paragraphs) might be in place."
         ],
         "evidence_strength": 0.75,
         "key_terminology": {
